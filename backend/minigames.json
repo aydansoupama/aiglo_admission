@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Bed Wars",
+        "description": "Protégez votre lit et détruisez celui des autres équipes !"
+    },
+    {
+        "id": 2,
+        "name": "Sky Wars",
+        "description": "Battez-vous dans les airs sur des îles flottantes !"
+    },
+    {
+        "id": 3,
+        "name": "TNT Run",
+        "description": "Courez et évitez de tomber pendant que les blocs disparaissent sous vos pieds !"
+    },
+    {
+        "id": 4,
+        "name": "Hunger Games",
+        "description": "Survivez et battez-vous pour être le dernier joueur en vie !"
+    },
+    {
+        "id": 5,
+        "name": "Build Battle",
+        "description": "Construisez la meilleure création sur un thème donné en temps limité !"
+    },
+    {
+        "id": 6,
+        "name": "Parkour",
+        "description": "Traversez des parcours d'obstacles le plus rapidement possible !"
+    },
+    {
+        "id": 7,
+        "name": "Murder Mystery",
+        "description": "Trouvez le meurtrier avant qu'il ne vous trouve !"
+    },
+    {
+        "id": 8,
+        "name": "UHC",
+        "description": "Survivez dans un monde hostile sans régénération naturelle de santé !"
+    },
+    {
+        "id": 9,
+        "name": "Capture du drapeau",
+        "description": "Capturez le drapeau de l'équipe adverse tout en protégeant le vôtre !"
+    },
+    {
+        "id": 10,
+        "name": "Spleef",
+        "description": "Détruisez les blocs sous les pieds de vos adversaires pour les faire tomber !"
+    },
+    {
+        "id": 11,
+        "name": "Paintball",
+        "description": "Tirez des boules de peinture sur vos adversaires pour les éliminer !"
+    },
+    {
+        "id": 12,
+        "name": "Course de bateaux",
+        "description": "Naviguez à travers un parcours d'obstacles aquatiques le plus vite possible !"
+    },
+    {
+        "id": 13,
+        "name": "Zombie Apocalypse",
+        "description": "Survivez à des vagues de zombies de plus en plus difficiles !"
+    },
+    {
+        "id": 14,
+        "name": "Quake",
+        "description": "Éliminez vos adversaires dans une arène avec des armes futuristes !"
+    },
+    {
+        "id": 15,
+        "name": "Hide and Seek",
+        "description": "Cachez-vous ou trouvez les autres joueurs cachés !"
+    },
+    {
+        "id": 16,
+        "name": "Mob Arena",
+        "description": "Affrontez des vagues de monstres de plus en plus puissants !"
+    },
+    {
+        "id": 17,
+        "name": "Elytra Race",
+        "description": "Volez à travers des parcours aériens avec vos élytres !"
+    },
+    {
+        "id": 18,
+        "name": "Sumo",
+        "description": "Poussez vos adversaires hors de l'arène pour gagner !"
+    },
+    {
+        "id": 19,
+        "name": "Pixel Painters",
+        "description": "Reproduisez une image pixel par pixel le plus rapidement possible !"
+    },
+    {
+        "id": 20,
+        "name": "Cops and Robbers",
+        "description": "Échappez-vous de la prison ou empêchez les prisonniers de s'évader !"
+    }
+]
